@@ -2,6 +2,7 @@
 
 Simply run `npm i`, wait for the install to complete and then run `npm start`
 
+Objective:
 
 Queries the OpenWeather API (https://openweathermap.org/api) to get the climatic forecast for the next 7 days for Cape Town. 
 Implements three functions in the express project provided using the data retrieved from the OpenWeather API. The three functions do the following:
